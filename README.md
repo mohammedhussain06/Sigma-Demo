@@ -1,2 +1,2 @@
 # Sigma-Demo
-New repository
+New repository.
